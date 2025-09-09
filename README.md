@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ChuiwenLi
 - ✨ I’m interested in:
 
-      - animal behavioral/cognitive neuroscience 🐀
-      - computational modeling of perceptual decision making: sequential sampling models (TRDM, LCA, DDM, etc) 💻
-      - visual system 👀
-- 🌱 I’m currently a graduate student in the Department of Psychology at University of Virginia.
+      - studying neuroscience in animal models 🐀
+      - the visual system 👀
+      - behavior, ephys, computational modeling, ...
+- 🌱 I’m currently a postdoc at McGovern, MIT.
 
 <!---
 - 💞️ I’m looking to collaborate on ...
